@@ -1,2 +1,2 @@
 # tinux-app
-Praractiacs de Electron Tutorial
+Practicas de Electron Tutorial
