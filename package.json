@@ -1,0 +1,29 @@
+{
+  "name": "tinux-app",
+  "version": "0.0.1",
+  "description": "Aplicacion de Iniciacion a Electron Js",
+  "main": "main.js",
+  "scripts": {
+	  "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tinotin366/tinux-app.git"
+  },
+  "keywords": [
+    "electron",
+    "nodejs",
+    "desktop",
+    "app"
+  ],
+  "author": "Tino Echaniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tinotin366/tinux-app/issues"
+  },
+  "homepage": "https://github.com/Tinotin366/tinux-app#readme",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
